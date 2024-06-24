@@ -1,1 +1,12 @@
 
+in the project folder create a folder named LaMini-Flan-T5-248M in this folder and download the model files from this link
+
+https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M/tree/main
+
+OR
+
+if you have git in the system you can clone the repo
+
+then just open terminal in your project folder and execute this command in terminal
+
+git clone https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M
