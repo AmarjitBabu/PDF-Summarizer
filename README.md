@@ -1,6 +1,7 @@
 # PDF-Summarizer
 
 steps to download this project
+
 1)create a folder for your project
 
 2)in the project folder create a folder named uploaded_pdfs : here the pdf that you upload gets saved
